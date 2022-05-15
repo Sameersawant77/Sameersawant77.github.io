@@ -6,7 +6,7 @@
 	<!-- the above snippet was taken by -->
 </p>
 
-# <b>:star::star:Sameer Sawant.</b>
+# <div align="center">Sameer Sawant.</div>
 
 <b>Mail:</b> sawantsameer666@gmail.com
 
