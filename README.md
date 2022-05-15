@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+<p align="center">
+	<a href="https://github.com/Sameersawant77"><img src="https://img.shields.io/github/followers/Sameersawant77.svg?label=GitHub&style=social" target="__blank" alt="GitHub"></a>
+	<a href="https://twitter.com/YOUR_USERNAME"><img src="https://img.shields.io/twitter/follow/YOUR_USERNAME?label=Twitter&style=social" alt="Twitter" target="_blank"></a>
+	<a href="https://www.linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn" target="_blank"></a>
+	<a href="https://www.instagram.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=Instagram" alt="Instagram" target="_blank"></a>
+	<!-- the above snippet was taken by -->
+</p>
 
-You can use the [editor on GitHub](https://github.com/Sameersawant77/Sameersawant77.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# <p style="font-size: 600px" align=center>Sameer Sawant.</p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<b>Mail:</b> sawantsameer666@gmail.com
 
-### Markdown
+<b>Career Objectives:</b>
+	To be an Computational Researcher and to gain knowledge of mathamathical logic behind Computational Algorithms.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<b>Skills:</b>
 
-```markdown
-Syntax highlighted code block
+	Programming language Known: C++, C, Python, Java, .... Insert All Languages You Know..
+	Basic Data Analysis: Insert All Tools, If You Know Any.
+	Database: Insert All DB You Know.
+	Frameworks: Insert All Frameworks You Know.
+	Libraries: Insert All Libraries You Know.
 
-# Header 1
-## Header 2
-### Header 3
+<b>Projects:</b>
 
-- Bulleted
-- List
+	Project Name: Insert Name Your Project.
+	Role: Your Role [example: Researcher and Developer]
+	Team Size: #
+	Project Duration: # Months/Years
+	Project Detail: Some Detail/Short Description.
+	Description: Some Long 1000-2000 Word Description about working 
+      of project/ tools used/ purpose of project.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+<b>Education:</b>
 
-[Link](url) and ![Image](src)
-```
+| Degree/Course | Institute/College | University/Board | Percentage/CGPA | Year of Passing |
+| ------------- | ----------------- | ---------------- | --------------- | --------------- |
+| BE (IT) | Some Other College | Mumbai University | 6.00/10.0 | 2023 |
+| HSC (12) | Some College | Maharashtra State Board Of Secondary And Higher Secondary Education | some % | 2019 |
+| SSC (10) | Some School | Maharashtra State Board of Secondary and Higher Secondary Education | some % | 2017 |
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+<b>Declaration:</b> I hereby declare that all the above facts are true to best of my knowledge.
 
-### Jekyll Themes
+Sameer Sawant.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Sameersawant77/Sameersawant77.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+#### Coursera Certification
