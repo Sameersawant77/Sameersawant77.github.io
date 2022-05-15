@@ -6,7 +6,7 @@
 	<!-- the above snippet was taken by -->
 </p>
 
-# <p style="font-size: 600px" align=center>Sameer Sawant.</p>
+# <p align=center>Sameer Sawant.</p>
 
 <b>Mail:</b> sawantsameer666@gmail.com
 
