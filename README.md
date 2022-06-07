@@ -16,7 +16,7 @@
 <b>Skills:</b>
 
 	Programming language Known: Java, Python, Javascript, C++, C.
-	Basic Data Analysis: Jupyter, NLTK.
+	Basic Data Analysis: Jupyter, NLTK, numpy, pandas, matplotlib, seaborn, Scikit.
 	Database: MySQL, MongoDB.
 	Frameworks: Angular, React, Flash, Django.
 
