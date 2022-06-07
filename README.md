@@ -11,7 +11,7 @@
 <b>Mail:</b> sawantsameer666@gmail.com
 
 <b>Career Objectives:</b>
-	To be an Computational Researcher and to gain knowledge of mathamathical logic behind Computational Algorithms.
+	To be a Fullstack Web Developer.
 
 <b>Skills:</b>
 
