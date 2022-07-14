@@ -18,17 +18,26 @@
 	Programming language Known: Java, Python, Javascript, C++, C.
 	Basic Data Analysis: Jupyter, NLTK, numpy, pandas, matplotlib, seaborn, Scikit.
 	Database: MySQL, MongoDB.
-	Frameworks: Angular, React, Flash, Django.
+	Frameworks: Angular, React, Flask.
 
 <b>Projects:</b>
 
-	Project Name: Insert Name Your Project.
-	Role: Your Role [example: Researcher and Developer]
-	Team Size: #
-	Project Duration: # Months/Years
-	Project Detail: Some Detail/Short Description.
-	Description: Some Long 1000-2000 Word Description about working 
-      of project/ tools used/ purpose of project.
+	Spam Email Detection using Machine Learning 
+	Academic Project.
+	A spam email detection which predicts email as spam or
+	harm. The main machine learning code is done using python, Jupyter
+	Notebook, pycharm, numpy and nltk libraries. Streamlit and heroku
+	are used to deploy the website. Vectorization and sklearn models are
+	used to divide and process the train and test the data. Voting and
+	stacking is performed to test accuracy and precision of each model
+	and combination of models.
+	
+	
+	Online Pizza app
+	Academic Project.
+	An online pizza app using advanced java technologies like
+	hibernate,etc. The front end was made by AngularJS, bootstrap,
+	jQuery. The Databases used were MySQl and the jpa repository.
 
 
 <b>Education:</b>
