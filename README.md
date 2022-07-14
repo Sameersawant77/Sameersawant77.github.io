@@ -1,8 +1,7 @@
 <p align="center">
 	<a href="https://github.com/Sameersawant77"><img src="https://img.shields.io/github/followers/Sameersawant77.svg?label=GitHub&style=social" target="__blank" alt="GitHub"></a>
-	<a href="https://twitter.com/YOUR_USERNAME"><img src="https://img.shields.io/twitter/follow/YOUR_USERNAME?label=Twitter&style=social" alt="Twitter" target="_blank"></a>
-	<a href="https://www.linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn" target="_blank"></a>
-	<a href="https://www.instagram.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=Instagram" alt="Instagram" target="_blank"></a>
+	<a href="https://www.linkedin.com/in/sameer-sawant-a8a63015b"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn" target="_blank"></a>
+	<a href="https://www.instagram.com/_sameersawant"><img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=Instagram" alt="Instagram" target="_blank"></a>
 	<!-- the above snippet was taken by -->
 </p>
 
